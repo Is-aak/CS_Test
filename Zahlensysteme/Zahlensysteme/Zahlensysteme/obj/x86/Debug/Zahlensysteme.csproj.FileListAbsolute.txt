@@ -1,0 +1,4 @@
+C:\Users\Isaak\Desktop\CS_Test\Zahlensysteme\Zahlensysteme\Zahlensysteme\bin\Debug\Zahlensysteme.exe
+C:\Users\Isaak\Desktop\CS_Test\Zahlensysteme\Zahlensysteme\Zahlensysteme\bin\Debug\Zahlensysteme.pdb
+C:\Users\Isaak\Desktop\CS_Test\Zahlensysteme\Zahlensysteme\Zahlensysteme\obj\x86\Debug\Zahlensysteme.exe
+C:\Users\Isaak\Desktop\CS_Test\Zahlensysteme\Zahlensysteme\Zahlensysteme\obj\x86\Debug\Zahlensysteme.pdb
