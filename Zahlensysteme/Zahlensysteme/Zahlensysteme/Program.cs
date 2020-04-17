@@ -34,11 +34,5 @@ namespace ConsoleApplication1
                 Console.Write("-");
             }
         }
-        static string binaerEingabe() 
-        {
-            Console.WriteLine("Bitte eine Binärzahö eingeben");
-            string input = Console.ReadLine();
-            return input;
-        }
     }
 }
